@@ -1,5 +1,5 @@
 Author: Julian Yan  
-Date: 4/24/2019 
+Date: 4/24/2019  
 Title: Sorting Algorithms  
 Summary: This program implements and tests sorting algorithms.
 
